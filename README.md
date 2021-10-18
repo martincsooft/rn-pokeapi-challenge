@@ -13,7 +13,7 @@ The app must have the **following screens**:
    - Random Pokémon: navigate to RandomPokemon screen
 2. _SearchPokemonScreen_:
    - Should initially load a list of all Pokémon from gen 1 (from Bulbasaur to Mew) ordered by number (id) that shows the number, name and types of each item
-   - Should have an input element to filter Pokémon by name or type (i.e., if you write “fire” you should only see fire type Pokémon, and if you write “fire flying” you should only see Pokémon with both types); also it should have a button to clear the filter c. When pressing an item of the list it should open a modal component showing basic information of that Pokémon
+   - Should have an input element to filter Pokémon by name or type (i.e., if you write “fire” you should only see fire type Pokémon, and if you write “fire flying” you should only see Pokémon with both types); also it should have a button to clear the filter. When pressing an item of the list it should open a modal component showing basic information of that Pokémon
 3. _RandomPokemonScreen_:
    - It should load information of a random Pokémon (this time from every gen)
    - On the top, it should have a button to load another random Pokémon replacing the one already shown
