@@ -31,7 +31,7 @@ Navigation should be done using **react-navigation** and it should have a _Drawe
 These are the following conditions for the development:
 
 - The code should be using **react-native** (with or without Expo)
-- The code could be written in **JavaScript or Typescript**
+- The code should be written in **JavaScript**
 - All the code and comments **should be written in English**
 - Use a proper naming conventions and standards when defining the structure of the project and the name of variables, functions, etc.
 
